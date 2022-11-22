@@ -1,2 +1,2 @@
-# cefeteria
+# cafeteria
 página da cafeteria
